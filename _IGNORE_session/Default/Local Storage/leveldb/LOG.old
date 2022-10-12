@@ -1,0 +1,12 @@
+2022/09/13-08:25:47.646 1553 Reusing MANIFEST /home/jo/!Node/wabot/_IGNORE_session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/13-08:25:47.647 1553 Recovering log #4
+2022/09/13-08:25:47.648 1553 Reusing old log /home/jo/!Node/wabot/_IGNORE_session/Default/Local Storage/leveldb/000004.log 
+2022/09/13-09:54:54.036 7e89 Level-0 table #8: started
+2022/09/13-09:54:54.053 7e89 Level-0 table #8: 12390 bytes OK
+2022/09/13-09:54:54.059 7e89 Delete type=0 #4
+2022/09/13-17:47:16.035 2da55 Level-0 table #10: started
+2022/09/13-17:47:16.051 2da55 Level-0 table #10: 8530 bytes OK
+2022/09/13-17:47:16.055 2da55 Delete type=0 #7
+2022/09/14-03:41:25.956 6d4d0 Level-0 table #12: started
+2022/09/14-03:41:25.999 6d4d0 Level-0 table #12: 8629 bytes OK
+2022/09/14-03:41:26.002 6d4d0 Delete type=0 #9

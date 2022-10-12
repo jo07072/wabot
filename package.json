@@ -1,0 +1,22 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp-bot"
+  ],
+  "author": "Jo",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.46.2",
+    "got": "^12.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16"
+  }
+}

@@ -1,0 +1,47 @@
+2022/10/12-10:07:15.228 1e1b Reusing MANIFEST /home/jo/!Node/wabot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/12-10:07:15.228 1e1b Recovering log #26
+2022/10/12-10:07:15.278 1e1b Reusing old log /home/jo/!Node/wabot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000026.log 
+2022/10/12-10:07:31.467 1e12 Level-0 table #32: started
+2022/10/12-10:07:31.533 1e12 Level-0 table #32: 1202064 bytes OK
+2022/10/12-10:07:31.537 1e12 Delete type=0 #26
+2022/10/12-10:07:31.544 1e12 Compacting 1@1 + 2@2 files
+2022/10/12-10:07:31.913 1e12 Generated table #33@1: 50479 keys, 2255185 bytes
+2022/10/12-10:07:31.988 1e12 Generated table #34@1: 7775 keys, 416171 bytes
+2022/10/12-10:07:31.988 1e12 Compacted 1@1 + 2@2 files => 2671356 bytes
+2022/10/12-10:07:31.992 1e12 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/10/12-10:07:33.987 1e0f Level-0 table #36: started
+2022/10/12-10:07:34.049 1e0f Level-0 table #36: 1032288 bytes OK
+2022/10/12-10:07:34.055 1e0f Delete type=2 #28
+2022/10/12-10:07:34.056 1e0f Delete type=2 #32
+2022/10/12-10:07:34.056 1e0f Delete type=0 #31
+2022/10/12-10:07:34.056 1e0f Delete type=2 #29
+2022/10/12-10:07:34.309 1e12 Compacting 1@1 + 2@2 files
+2022/10/12-10:07:34.501 1e12 Generated table #37@1: 51264 keys, 2258345 bytes
+2022/10/12-10:07:34.543 1e12 Generated table #38@1: 9658 keys, 456680 bytes
+2022/10/12-10:07:34.543 1e12 Compacted 1@1 + 2@2 files => 2715025 bytes
+2022/10/12-10:07:34.547 1e12 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/10/12-10:07:34.547 1e12 Delete type=2 #36
+2022/10/12-10:07:34.548 1e12 Delete type=2 #34
+2022/10/12-10:07:34.548 1e12 Delete type=2 #33
+2022/10/12-10:07:39.785 1e0f Level-0 table #40: started
+2022/10/12-10:07:39.835 1e0f Level-0 table #40: 1572636 bytes OK
+2022/10/12-10:07:39.839 1e0f Delete type=0 #35
+2022/10/12-10:07:39.840 1e0f Compacting 1@1 + 2@2 files
+2022/10/12-10:07:39.997 1e0f Generated table #41@1: 44680 keys, 2264193 bytes
+2022/10/12-10:07:40.041 1e0f Generated table #42@1: 20154 keys, 892587 bytes
+2022/10/12-10:07:40.041 1e0f Compacted 1@1 + 2@2 files => 3156780 bytes
+2022/10/12-10:07:40.044 1e0f compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/10/12-10:07:40.045 1e0f Delete type=2 #37
+2022/10/12-10:07:40.045 1e0f Delete type=2 #38
+2022/10/12-10:07:40.045 1e0f Delete type=2 #40
+2022/10/12-10:28:53.504 1e0b Level-0 table #44: started
+2022/10/12-10:28:53.604 1e0b Level-0 table #44: 1335204 bytes OK
+2022/10/12-10:28:53.608 1e0b Delete type=0 #39
+2022/10/12-10:28:58.533 1e1b Compacting 1@1 + 2@2 files
+2022/10/12-10:28:58.747 1e1b Generated table #45@1: 34629 keys, 2275535 bytes
+2022/10/12-10:28:58.887 1e1b Generated table #46@1: 33457 keys, 1230490 bytes
+2022/10/12-10:28:58.887 1e1b Compacted 1@1 + 2@2 files => 3506025 bytes
+2022/10/12-10:28:58.891 1e1b compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/10/12-10:28:58.892 1e1b Delete type=2 #44
+2022/10/12-10:28:58.892 1e1b Delete type=2 #42
+2022/10/12-10:28:58.892 1e1b Delete type=2 #41
